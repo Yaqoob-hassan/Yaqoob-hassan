@@ -80,12 +80,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yaqoob-hassan&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <a href="https://wakatime.com/@your-wakatime-user-id">
-    <img src="https://wakatime.com/badge/user/your-wakatime-user-id.svg" alt="WakaTime" />
-  </a>
-</p>
-
 ---
 
 ### 🚧 Project Showcase
