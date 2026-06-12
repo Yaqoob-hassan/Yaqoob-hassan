@@ -22,19 +22,16 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin-handle" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-yaqoob-hassan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:myaqoobh13@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/your-github-handle" target="_blank">
+  <a href="https://github.com/Yaqoob-hassan" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/your-instagram-handle" target="_blank">
+  <a href="https://instagram.com/yaqoob_6hassan" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -75,16 +72,18 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=your-github-handle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-handle&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yaqoob-hassan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaqoob-hassan&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-handle&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yaqoob-hassan&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://wakatime.com/badge/user/your-wakatime-user-id.svg" alt="WakaTime" />
+  <a href="https://wakatime.com/@your-wakatime-user-id">
+    <img src="https://wakatime.com/badge/user/your-wakatime-user-id.svg" alt="WakaTime" />
+  </a>
 </p>
 
 ---
@@ -102,14 +101,14 @@
 | 🌸 **Iris Flower Classification** | Classic multi-class classification project applying multiple algorithms with performance comparison. | `Scikit-learn` `Pandas` |
 | 🔢 **MNIST Digit Recognition** | Image classification model recognizing handwritten digits with high validation accuracy. | `Scikit-learn` `NumPy` |
 
-> 🔗 Check out more on my [GitHub Profile](https://github.com/your-github-handle)
+> 🔗 Check out more on my [GitHub Profile](https://github.com/Yaqoob-hassan)
 
 ---
 
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-handle&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yaqoob-hassan&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -117,5 +116,5 @@
 <h3 align="center">💡 "Turning data into decisions, one model at a time."</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-handle&style=for-the-badge&color=blueviolet" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Yaqoob-hassan&style=for-the-badge&color=blueviolet" alt="profile views" />
 </p>
